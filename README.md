@@ -7,3 +7,5 @@ No repositório temos dois caminhos. Um é a implementação em VHDL preparada p
 Há também um PDF detalhando o que foi descrito acima, bem como os requisitos iniciais do projeto e os detalhes de entradas, saídas, ideação, projeto à mão do DATAPATH e CONTROLADORA. Além disso, há uma análise detalhada dos resultados da simulação, bem como a ordem de trabalho para a construção do projeto RTL.
 
 Por fim, o trabalho foi realizado em conjunto com a aluna Letícia Vitória Souza Pires, também estudante de Engenharia Elétrica cuja participação deve ser citada.
+
+A organização interna das pastas .rar ainda estão um pouco confusas. Vou trabalhar numa forma de organizar e renomear as partes do projeto de forma mais intuitiva. O documento PDF auxilia na navegação interna das pastas .rar do projeto.
